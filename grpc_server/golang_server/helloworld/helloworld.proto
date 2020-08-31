@@ -2,8 +2,6 @@ syntax = "proto3";
 
 package helloworld;
 
-option go_package = "helloworld";
-
 // 服务端定义
 service Greeter {
 // 服务端返馈信息方法
